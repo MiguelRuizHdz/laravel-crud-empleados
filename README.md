@@ -29,10 +29,13 @@ Agregar el proyecto en la carpeta htdocs
 ### Abrir proyecto en el navegador
 <pre>localhost/$folder_name/public/</pre>
 
-*Nota*: El registro de nuevos usuarios esta deshabilitado en la linea 34 del archivo web.php.
+*Nota*: El registro de nuevos usuarios esta deshabilitado en la línea 34 del archivo web.php.
+
+```
 .
 ├── routes
 │   └── web.php
+```
 
 ## About Laravel
 
